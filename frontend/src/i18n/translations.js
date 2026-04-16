@@ -18,7 +18,7 @@ export const translations = {
     },
     catalog: {
       title: "My Collection",
-      subtitle: "Handcrafted marshmallow flower arrangements",
+      subtitle: "Get special sale prices on all bouquets. Offer valid only until the end of this week!",
       customTitle: "Unique Custom Order",
       customDesc: "Message for details",
       sale: "Sale",
