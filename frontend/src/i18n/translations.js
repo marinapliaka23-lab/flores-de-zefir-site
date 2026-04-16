@@ -297,8 +297,8 @@ export const translations = {
       instagram: "Instagram",
     },
     catalog: {
-      title: "Наша колекцiя",
-      subtitle: "Зефiрнi квiтковi композицiї ручної роботи",
+      title: "Моя колекцiя",
+      subtitle: "Отримуйте спеціальні акційні ціни на всі букети! Пропозиція діє лише до кінця тижня!",
       customTitle: "Унiкальне iндивiдуальне замовлення",
       customDesc: "Напишiть для деталей",
       sale: "Акцiя",
