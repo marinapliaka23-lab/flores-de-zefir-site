@@ -154,7 +154,7 @@ export const translations = {
     },
     catalog: {
       title: "Nossa Colecao",
-      subtitle: "Arranjos florais de marshmallow artesanais",
+      subtitle: "Aproveite preços especiais em todos os bouquets! Oferta válida apenas até ao final desta semana!",
       customTitle: "Encomenda Personalizada",
       customDesc: "Envie mensagem para detalhes",
       sale: "Promocao",
